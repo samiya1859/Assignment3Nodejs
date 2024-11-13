@@ -1,0 +1,218 @@
+{
+  "hotels": [
+    {
+      "hotel_id": 1,
+      "slug": "hotel-california",
+      "title": "Hotel California",
+      "description": "A beautiful hotel located in the heart of California.",
+      "guest_count": 200,
+      "bedroom_count": 100,
+      "bathroom_count": 120,
+      "amenities": [
+        "Free Wi-Fi",
+        "Swimming Pool",
+        "Fitness Center",
+        "Restaurant",
+        "Spa"
+      ],
+      "host_information": {
+        "name": "John Doe",
+        "contact": "john@example.com",
+        "phone": "+1234567890"
+      },
+      "address": "123 California St, Los Angeles, CA, USA",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "rooms": [
+        {
+          "hotel_slug": "hotel-california",
+          "room_slug": "room-101",
+          "room_title": "Ocean View Suite",
+          "bedroom_count": 2
+        },
+        {
+          "hotel_slug": "hotel-california",
+          "room_slug": "room-102",
+          "room_title": "Mountain View Suite",
+          "bedroom_count": 3
+        }
+      ],
+      "hotels": [
+        {
+          "hotel_id": 1,
+          "slug": "updated hotel-california",
+          "title": "Hotel California",
+          "description": "A beautiful hotel located in the heart of California.",
+          "guest_count": 200,
+          "bedroom_count": 100,
+          "bathroom_count": 120,
+          "amenities": [
+            "Free Wi-Fi",
+            "Swimming Pool",
+            "Fitness Center",
+            "Restaurant",
+            "Spa"
+          ],
+          "host_information": {
+            "name": "John Doe",
+            "contact": "john@example.com",
+            "phone": "+1234567890"
+          },
+          "address": "123 California St, Los Angeles, CA, USA",
+          "latitude": 34.0522,
+          "longitude": -118.2437,
+          "rooms": [
+            {
+              "hotel_slug": "hotel-california",
+              "room_slug": "room-101",
+              "room_title": "Ocean View Suite",
+              "bedroom_count": 2
+            },
+            {
+              "hotel_slug": "hotel-california",
+              "room_slug": "room-102",
+              "room_title": "Mountain View Suite",
+              "bedroom_count": 3
+            }
+          ]
+        },
+        {
+          "hotel_id": 2,
+          "slug": "hotel-california",
+          "title": "Hotel California",
+          "description": "A beautiful hotel located in the heart of California.",
+          "guest_count": 200,
+          "bedroom_count": 100,
+          "bathroom_count": 120,
+          "amenities": [
+            "Free Wi-Fi",
+            "Swimming Pool",
+            "Fitness Center",
+            "Restaurant",
+            "Spa"
+          ],
+          "host_information": {
+            "name": "John Doe",
+            "contact": "john@example.com",
+            "phone": "+1234567890"
+          },
+          "address": "123 California St, Los Angeles, CA, USA",
+          "latitude": 34.0522,
+          "longitude": -118.2437,
+          "rooms": [
+            {
+              "hotel_slug": "hotel-california",
+              "room_slug": "room-101",
+              "room_title": "Ocean View Suite",
+              "bedroom_count": 2
+            },
+            {
+              "hotel_slug": "hotel-california",
+              "room_slug": "room-102",
+              "room_title": "Mountain View Suite",
+              "bedroom_count": 3
+            }
+          ]
+        },
+        {
+          "hotel_id": 3,
+          "slug": "hotel-new",
+          "title": "Hotel New",
+          "description": "A new hotel in town",
+          "guest_count": 100,
+          "bedroom_count": 50,
+          "bathroom_count": 50,
+          "amenities": [
+            "Free Wi-Fi",
+            "Swimming Pool",
+            "Restaurant"
+          ],
+          "host_information": {
+            "name": "Alice",
+            "contact": "alice@example.com",
+            "phone": "+123456789"
+          },
+          "address": "456 New St, New York, NY, USA",
+          "latitude": 40.7128,
+          "longitude": -74.006,
+          "rooms": [
+            {
+              "hotel_slug": "hotel-new",
+              "room_slug": "room-101",
+              "room_title": "City View Suite",
+              "bedroom_count": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hotel_id": 2,
+      "slug": "hotel-california",
+      "title": "Hotel California",
+      "description": "A beautiful hotel located in the heart of California.",
+      "guest_count": 200,
+      "bedroom_count": 100,
+      "bathroom_count": 120,
+      "amenities": [
+        "Free Wi-Fi",
+        "Swimming Pool",
+        "Fitness Center",
+        "Restaurant",
+        "Spa"
+      ],
+      "host_information": {
+        "name": "John Doe",
+        "contact": "john@example.com",
+        "phone": "+1234567890"
+      },
+      "address": "123 California St, Los Angeles, CA, USA",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "rooms": [
+        {
+          "hotel_slug": "hotel-california",
+          "room_slug": "room-101",
+          "room_title": "Ocean View Suite",
+          "bedroom_count": 2
+        },
+        {
+          "hotel_slug": "hotel-california",
+          "room_slug": "room-102",
+          "room_title": "Mountain View Suite",
+          "bedroom_count": 3
+        }
+      ]
+    },
+    {
+      "hotel_id": 3,
+      "slug": "hotel-new",
+      "title": "Hotel New",
+      "description": "A new hotel in town",
+      "guest_count": 100,
+      "bedroom_count": 50,
+      "bathroom_count": 50,
+      "amenities": [
+        "Free Wi-Fi",
+        "Swimming Pool",
+        "Restaurant"
+      ],
+      "host_information": {
+        "name": "Alice",
+        "contact": "alice@example.com",
+        "phone": "+123456789"
+      },
+      "address": "456 New St, New York, NY, USA",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "rooms": [
+        {
+          "hotel_slug": "hotel-new",
+          "room_slug": "room-101",
+          "room_title": "City View Suite",
+          "bedroom_count": 2
+        }
+      ]
+    }
+  ]
+}
